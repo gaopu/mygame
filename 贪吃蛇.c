@@ -1,5 +1,6 @@
 //贪吃蛇
 //加群348538085
+//widnows下面的东西，只能在widnows下面运行
 #include<stdio.h>
 #include<windows.h>
 #include<stdlib.h>
